@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">    
+    <title>Random</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="main">
+        <header class="header">
+            <a href="#" class="logo">GOKIL</a>
+
+            <nav class="navbar">
+                <a href="#" class="active">Home</a>
+                <a href="#">About</a>
+                <a href="#">Services</a>
+                <a href="#">Contact</a>
+            </nav> 
+        </header>
+
+        <div class="container">
+            <!-- Ini menuju halaman berikutnya, dimana semua pertanyaan sdh terproses dan ada di javascript -->
+            <section class="quiz-section">
+                <div class="quiz-box">
+                    <H1>Kuis Random</H1>
+                    <div class="quiz-header">
+                        <span>Hayo Jawab Cevat :v</span>
+                        <span class="header-score">Score : 0 / 5</span>
+                    </div>
+
+                    <h2 class="question-text">Apa fungsi utama bahasa pemograman HTML?</h2>
+
+                    <div class="option-list">
+                        <div class="option">
+                            <span>A. Menentukan struktur dan konten dari halaman web</span>
+                        </div>
+                        <div class="option">
+                            <span>B. Menambahkan gaya dan efek visual pada halaman web</span>
+                        </div>
+                        <div class="option">
+                            <span>C. Mengubah posisi yang salah pada web tertentu</span>
+                        </div> 
+                        <div class="option">
+                            <span>D. Memproses data di server</span>
+                        </div>
+                    </div>
+
+                    <div class="quiz-footer">
+                        <span class="question-total">1 dari 5 Pertanyaan</span>
+                        <button class="next-btn">Next</button>
+                    </div>
+                </div>
+
+                <div class="result-box">
+                    <h2>Hasil Anda</h2>
+                    <div class="percentage-container">
+                        <div class="circular-progress">
+                            <span class="progress-value">0%</span>
+                        </div>
+
+                        <span class="score-text">Skor kamu 0 dari 5</span>
+                    </div>
+                    <div class="buttons">
+                        <button class="ulangi-btn">Coba lagi lee</button>
+                        <button class="balik-btn">Balek ke beranda</button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Ini menu lobby atau awal -->
+            <section class="Home">
+                <div class="home-content">
+                    <h1>KUIS ANOMALI</h1>
+                    <p>Mari kita lihat, seberapa hebat anda menjawab pertanyaan ini</p>
+                    <button class="start-btn">Start Quiz</button>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Petunjuk quiz -->
+    <div class="popup-info">
+    <h2>Panduan Quiz</h2>
+       <span class="info">1. Kuis terdiri atas 10 pertanyaan</span>
+       <span class="info">2. Pilihlah jawaban yang menurut anda benar</span>
+       <span class="info">3. Skor akan ditampilkan setelah anda menjawab</span>
+       <span class="info">4. JANGAN CURANG KAU, JAWAB LANGSUNG >:(</span>
+       <span class="info">5. Udah siap kah? Kalau siap, tekan continue</span>
+      
+       <div class="btn-group">
+            <button class="info-btn exit-btn">Exit Quiz</button>
+            <a href="#" class="info-btn continue-btn">Continue</a>
+       </div>
+    </div>
+
+    
+
+
+    <script src="questions.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

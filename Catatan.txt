@@ -1,0 +1,35 @@
+1. Apa fungsi utama bahasa pemograman HTML?
+A. Menentukan struktur dan konten dari halaman web
+"A. Menentukan struktur dan konten dari halaman web"
+"B. Menambahkan gaya dan efek visual pada halaman web"
+"C. Mengubah posisi yang salah pada web tertentu"
+"D. Memproses data di server"
+
+
+2. Apa kepanjangan dari HTML?
+C. Hypertext Markup Language
+"A. Hyper Transfer Markup Language",
+"B. Hypertext Markdown Language",
+"C. Hypertext Markup Language",
+"D. Hyper Transfer Markdown Language"
+
+3. Berikut, komponen bahasa C++, kecuali....
+B. Pengelolaan file dan folder
+"A. Operator aritmatika",
+"B. Pengelolaan file dan folder",
+"C. Pointer dam refrensi",
+"D. Struct dan Union",
+
+4. Tujuan utama dari sistem operasi pada komputer yaitu....
+D. Mengelola perangkat keras dan perangkat lunak serta menyediakan antarmuka
+"A. Memanipulasi data menggunakan algoritma kompleks",
+"B. Meningkatkan kecepatan prosesor dan memori komputer",
+"C. Mengembangkan aplikasi perangkat lunak baru",
+"D. Mengelola perangkat keras dan perangkat lunak serta menyediakan antarmuka"
+
+5. Hasil dari 6 : 2(1+2) = .... (JANGAN PAKE KALKULATOR, JAWAB JUJUR!!!)
+C. 9
+"A. 1",
+"B. 7",
+"C. 9",
+"D. 4"
